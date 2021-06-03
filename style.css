@@ -54,5 +54,13 @@ body {
     font-size: 30px;
     line-height: 1.2;
     font-family: 'Zilla Slab', serif;
-    
 }
+
+a {
+    text-decoration: none;
+}
+
+.article: hover {
+    color:fuchsia;
+}
+
